@@ -173,6 +173,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 #include "lcd.h"
 Lcd_PortType ports[] = { GPIOA, GPIOA, GPIOA, GPIOA };
@@ -183,7 +184,7 @@ Lcd_PortType ports[] = { GPIOA, GPIOA, GPIOA, GPIOA };
     Lcd_string(&lcd, "Abishek P");
     Lcd_cursor(&lcd, 1,1);
     Lcd_string(&lcd, "212224240002 ");
-
+```
 
 
 ## Output screen shots of proteus  :
