@@ -191,7 +191,8 @@ Lcd_PortType ports[] = { GPIOA, GPIOA, GPIOA, GPIOA };
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- [cd.PDF](https://github.com/user-attachments/files/25310457/cd.PDF)
+ <img width="1203" height="834" alt="cd" src="https://github.com/user-attachments/assets/fad0542c-142e-454a-a2cc-6f5b0917e7f8" />
+
 
  
 ## Result :
